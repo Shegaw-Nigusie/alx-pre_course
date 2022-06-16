@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\xampp\\htdocs\\last"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\xampp\\htdocs\\lms"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\wamp64\\www\\myproject"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\wamp64\\www\\LaravelMultiAuth-JetStream-master"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\wamp64\\www\\laravel-roles-permissions-manager-master"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\wamp64\\www\\laravelMultiAuthUserManagement-master"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\wamp64\\www\\support"
+		}
+	]
+}
